@@ -4,7 +4,7 @@
 //const b =20
 
 const a = Number(prompt("Digite o valor do seu salario: "))
-const B = Number(prompt("Digite a porcentagem do aumento: "))
+const b = Number(prompt("Digite a porcentagem do aumento: "))
 
 
 resultado = (a*(b/100)+1)
